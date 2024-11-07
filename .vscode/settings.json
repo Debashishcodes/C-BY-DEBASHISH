@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "FIRSTPROGRAM.C": "cpp",
+        "INPUT.C": "cpp",
+        "LOOPS.C": "cpp",
+        "GP.C": "cpp",
+        "HELLOWORLD.C": "cpp",
+        "ADDITIONOFTWONO.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
